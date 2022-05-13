@@ -7,9 +7,9 @@ I'll be completing one code wars problem each day for 100 days. This project is 
 
 ## How It's Made:
 
-**Tech used:** HTML, JavaScript, and Lua.
+**Tech used:** HTML, JavaScript, and Lua
 
-Because codewars offers problems in a variety of programming languages, I'll be utilizing both Javascript and Lua to create solutions. I'm primarily focused on improving my Javscript, although I'm keeping Lua on the sidelines for occasional use.
+Because code wars offers problems in a variety of programming languages, I'll be utilizing both Javascript and Lua to create solutions. I'm primarily focused on improving my Javscript, although I'm keeping Lua on the sidelines for occasional use.
 
 ## Optimizations
 
