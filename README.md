@@ -1,5 +1,6 @@
 # codeWarsSolutions
 I'll be completing one code wars problem each day for 100 days. This project is inspired by the community at 100devs. 
+
 **Link to project:** https://www.codewars.com/users/Izik-Martinez/
 
 ![alt tag](https://www.codewars.com/users/Izik-Martinez/badges/large)
