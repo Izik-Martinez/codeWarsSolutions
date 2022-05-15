@@ -18,7 +18,7 @@ In the future I plan to incorporate both Javascript and Lua into a single soluti
 ## Lessons Learned:
 
 No matter one's expereince level, there's always more to learn. 
-Each time a construct a code wars solution, it gives me a surge of satisfaction that fuels my ability and passion to learn.
+Each time I construct a code wars solution, it gives me a surge of satisfaction that fuels my ability and passion to learn.
 
 ## Examples:
 Take a look at these couple examples that I have in my repo: [thisRepo](https://github.com/Izik-Martinez/codeWarsSolutions)
